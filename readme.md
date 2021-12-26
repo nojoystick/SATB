@@ -5,7 +5,7 @@ _using teensy 3.2 and audio board_
 ## recycle! ##
 you can build this into any box:
 
-![SATB](https://github.com/dallinw/SATB/blob/master/SATB.jpg)
+![SATB](https://github.com/nojoystick/SATB/blob/master/SATB.jpg)
 
 
 ## parameters: ##
